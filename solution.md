@@ -801,3 +801,13 @@ Weight: 130 lbs
 <br>
 ASSUMING THE DRIVER WASN'T DIFFERENT THAN THE SUSPECT, IT'S EITHER JEREMY BOWERS OR JOE GERMUSKA
 <br>
+➜  memberships git:(master) grep -R "Jeremy" ./
+.//AAA:Jeremy Bowers
+.//Delta_SkyMiles:Jeremy Bowers
+.//Museum_of_Bash_History:Jeremy Bowers
+.//Terminal_City_Library:Jeremy Bowers
+➜  memberships git:(master) grep -R "Joe Germuska" ./
+.//AAA:Joe Germuska
+.//Terminal_City_Library:Joe Germuska
+<br>
+***SOLUTION: JEREMY BOWERS***
