@@ -38,4 +38,40 @@ look in interviews directory
 	cat interview-699607
 		Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
 		However, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with “9”. 
+
+		preliminary conclusion: witness is Annabel Church.Annabel Church	F	38	Buckingham Place, line 179	
+
+
+from the Lead: Find a be Honda plates L337 ending in 9
+	grep "L337" vehicles
+License Plate L337ZR9
+License Plate L337P89
+License Plate L337GX9
+License Plate L337QE9
+License Plate L337GB9
+License Plate L337OI9
+License Plate L337X19
+License Plate L337539
+License Plate L3373U9
+License Plate L337369
+License Plate L337DV9
+License Plate L3375A9
+License Plate L337WR9
 	
+	to get more info for 5 lines following each line matching license plate number
+		grep -A 5 "L337" vehicles
+	suspects fitting description of tall male (>6’0), with blue Honda:
+
+		License Plate L337DV9
+		Make: Honda
+		Color: Blue
+		Owner: Joe Germuska
+		Height: 6'2"
+		Weight: 164 lbs
+		
+		License Plate L3375A9
+		Make: Honda
+		Color: Blue
+		Owner: Jeremy Bowers
+		Height: 6'1"
+		Weight: 204 lbs
