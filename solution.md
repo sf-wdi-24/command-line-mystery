@@ -1,16 +1,29 @@
-cd mystery
-ls
-cat crimescene
-//too much crap
-//grep 'CLUE' crimescene
-//AAA, DELTA SkyMiles library museum of bash history,
-//male, 6feet tall
-//Mike Bostock	M	45	Senders Court, line 287
-cd interviews
-grep -r -e '6'
-cd ..
-cd memberships
-grep -r -e 'Mike Bostock'
+* cd mystery
+* ls
+* cat crimescene
+
+* grep 'CLUE' crimescene
+* grep 'Annabel' people
+* grep -R 'Sun' interviews
+* grep -R 'Church' interviews
+* grep 'Church' people
+* grep -r 'gunshot' streets/Buckingham_Place
+* head -179 streets/Buckingham_Place
+* cat interviews/interview-699607
+* grep -A 5 'L337' vehicles
 
 
-Mike Bostock did it!
+* //Joe Germuska
+* //Jeremy Bowers
+* //Jacqui Maher
+
+* grep -r 'Joe Germuska' memberships
+* grep -r 'Jeremy Bowers' memberships
+* grep -r 'Jacqui Maher' memberships
+
+
+
+* //AAA, DELTA SkyMiles library museum of bash history,
+* //male, 6feet tall
+
+//i think jacqui is female so it has to be Jeremy Bowsers
