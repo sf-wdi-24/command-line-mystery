@@ -29,3 +29,13 @@ look in streets directory
 		…some gibberish …
 		 overheats embittering grimmer beamed 
 			SEE INTERVIEW #699607
+
+look in interviews directory
+	
+	cat interview-47246024
+		Ms. Sun has brown hair and is not from New Zealand.  Not the witness from the cafe.
+	
+	cat interview-699607
+		Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
+		However, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with “9”. 
+	
