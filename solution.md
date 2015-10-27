@@ -17,4 +17,15 @@ they live on from the file.  If a line looks like gibberish, you're at the wrong
 	Grep “Annabel” people
 		2 Females
 			Annabel Sun	F	26	Hart Place, line 40
-			Annabel Church	F	38	Buckingham Place, line 179	
+			Annabel Church	F	38	Buckingham Place, line 179
+
+
+look in streets directory
+	head -40 Hart_Place 
+		…some gibberish …
+		stupendous prolonged smog naps 
+			SEE INTERVIEW #47246024
+	head -179 Buckingham_Place
+		…some gibberish …
+		 overheats embittering grimmer beamed 
+			SEE INTERVIEW #699607
