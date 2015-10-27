@@ -1,14 +1,25 @@
 cd mystery
+
 cat instructions
+
 cd mystery
+
 cat crimescene
+
 grep 'CLUE' crimescene
+
 grep 'Annabel' people
+
 cd streets
+
 ls
+
 cat Hart_Place
+
 cd ..
+
 cd memberships
+
 cat AAA
 ls
 grep 'Annabel' AAA
@@ -70,13 +81,17 @@ Two match description of suspect as owning BLUE HONDA
 with license plate beginning 'L337' and ending '9'
 who are Male and 6'
 
-"Joe Germuska" and "Jeremy Bowers"
+"Joe Germuska" and "Jeremy Bowers" and "Jacqui Maher"
 
 grep 'Jeremy Bowers' people
 Jeremy Bowers	M	34	Dunstable Road, line 284
 
 grep 'Joe Germuska' people
 Joe Germuska	M	65	Plainfield Street, line 275
+
+grep 'Jacqui Maher'
+Jacqui Maher	F	40	Andover Road, line 224
+Female. Not our culprit.
 
 cd streets
 head -n284 Dunstable_Road
