@@ -3,7 +3,6 @@
 ---------------------------------
 List of Terminal Commands needed to Solve
 ---------------------------------
-Aquire Clues
 1. grep "CLUE" crimescene 
   + (Aquire Clues)
 2. grep "Annabel" people 
