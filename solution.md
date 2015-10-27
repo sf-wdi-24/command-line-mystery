@@ -1,5 +1,10 @@
 List of Commands needed to solve the crime
-Matt Waite is the murderer
+ ////////////////////////////////////
+///  Matt Waite is the murderer  ///
+///////////////////////////////////
+
+List of Commands needed to Solve
+---------------------------------
 
    53  cd command-line-mystery
    54  touch solution.md
@@ -111,7 +116,7 @@ Matt Waite is the murderer
   160  grep "AAA" *
   161  cat interview-290346
   162  grep "6'" *
-  163  grep "description" *
+  163  grep "description" *  
   164  cd ..
   165  ls
   166  cd ..
