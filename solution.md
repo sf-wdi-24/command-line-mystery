@@ -74,4 +74,22 @@ License Plate L337WR9
 		Color: Blue
 		Owner: Jeremy Bowers
 		Height: 6'1"
-		Weight: 204 lbs
+		Weight: 204 lbs.
+
+
+
+	cross reference the memberships with the two names of suspects. Inside Memberships folder
+	cat AAA Delta_SkyMiles Terminal_city_library Museum_of_Bash_History | grep "Joe Germuska"
+		2 results positive
+
+	cat AAA Delta_SkyMiles Terminal_city_library Museum_of_Bash_History | grep "Jeremy Bowers"
+		ALL 4 RESULTS ARE POSITIVE.
+
+
+
+
+
+Suspect Identified as Jeremy Bowers  
+
+
+		
